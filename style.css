@@ -3,7 +3,11 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+.wrap{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+}
 body,html{
     overflow-x: hidden;
     touch-action: pan-y;
