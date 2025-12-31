@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sign Up</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+<body class="bg">
+    <div>
+        <form action="">
+            <h2 class="h2">Sign Up</h2>
+            <p class="p1">From Soil To Smile - Golsa</p>
+            <label for="" class="l1">Email</label>
+            <br>
+            <input type="text" class="i1">
+            <span><img src="Email.png" alt="" class="Email"></span>
+            <br>
+            
+            <label for="" class="l2">Password</label>
+            <br>
+            <input type="password" class="i2" id="pass">
+            <span onclick="tuggle()" id="s1" class="s1"><img src="view.png" alt="" class="img" id="img"></span>
+            <br>
+            <label for="">Confirm Password</label>
+            <br>
+            <input type="text" class="i1">
+            <span><img src="lock.png" alt="" class="Email"></span>
+            <br>
+            <input type="checkbox" name="" id="" class="check"><label for="" class="l3">Remmember Me</label>
+            <a href="forget-password.html" class="a1">Forget your password?</a>
+            <button class="b b1">Sign up</button>
+            <br>
+            <p class="or">OR</p>
+            
+            <button class="b b2">Sign up With Google</button>
+            <p class="p3">Already have an account? <a href="login.html" class="a2"><b>Log in</b></a></p>
+            
+            
+        </form>
+        <img src="Google.png" alt="" class="Google">
+        </div>
+        <a href="login.html"><button class="back-button"><img src="../back.png" alt="" class="back"></button></a>
+    <script>
+        function tuggle()
+        {
+            if(document.getElementById("pass").type==="password")
+            {
+                document.getElementById("pass").type="text";
+                document.getElementById("img").src="hide (1).png";
+
+            }
+
+            else
+            {
+                document.getElementById("pass").type="password";
+                document.getElementById("img").src="view.png";
+            }
+        }
+    </script>
+</body>
+</html>

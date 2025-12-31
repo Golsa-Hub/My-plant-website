@@ -1,0 +1,750 @@
+body{
+    background-color: rgb(250, 250, 214);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(248, 248, 177);
+    margin: 0;
+    overflow-x: hidden;
+}
+.main{
+    width: 200px;
+    height: 70px;
+    background-color: rgb(41, 119, 41);
+    border: 2px solid rgb(41, 119, 41);
+    box-shadow: 0 0 15px rgb(41, 119, 41);
+    border-radius: 20px;
+    text-align: center;
+    color: beige;
+    position: relative;
+    left: 630px;
+    top: 120px;
+    font-weight: bolder;
+}
+.main p{
+    margin-top: 25px;
+}
+.background{
+    background-image: url("back2\ \(2\).jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    margin-right: 70px;
+    border-radius: 0 0 15px 15px;
+    padding-top: 40px;
+    border: green 3px;
+}
+.discription{
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 4px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 10px;
+    color: #000000;
+    width: 700px;
+    height: 190px;
+    margin-top: 150px;
+    margin-left: 340px;
+    text-align: justify;
+    font-size: large;
+}
+.d{
+    width: 220px;
+    height: 330px;
+    background-color: rgb(106, 246, 106);
+    border: 2px solid rgb(106, 246, 106);
+    box-shadow: 0 0 15px rgb(106, 246, 106);
+    border-radius: 20px;
+    position: absolute;
+}
+.flower1{
+    width: 150px;
+    position: relative;
+    left: 110px;
+    top: 40px;
+   filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.7));
+}
+.a1 :hover{
+     filter: drop-shadow(5px 5px 10px rgb(255, 255, 255));
+}
+.star1{
+    width: 25px;
+    margin-left: 90px;
+    bottom: 8px;
+    position: relative;
+}
+.basket1{
+    width: 40px;
+    margin-left: 169px;
+    bottom: 1px;
+    opacity: 0.7;
+    position: relative;
+}
+.price1{
+    position: relative;
+    margin-left: 15px;
+    top: 70px;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(10, 41, 3);
+}
+.score1{
+    font-weight: bold;
+    margin-left: 120px;
+    bottom:42px;
+    position: relative;
+    font-size: smaller;
+}
+.discript1{
+    font-weight: bold;
+    margin-top: 120px;
+    text-align: center;
+    margin-right: 1120px;
+    position: relative;
+    opacity: 0.7;
+    font-size: small;
+}
+.flower-name1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 140px;
+    color: rgb(29, 54, 0);
+    text-shadow:5px 5px 10px rgba(0,0,0,0.7);
+}
+.divFlower1{
+    margin-left: 80px;
+    margin-top: 130px;
+}
+
+
+
+
+
+/* div2 */
+
+.flower2{
+    width: 160px;
+    position: relative;
+    left: 110px;
+    top: 80px;
+    filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.7));
+}
+.star2{
+    width: 25px;
+    margin-left: 90px;
+    top: 135px;
+    position: relative;
+}
+.basket2{
+    width: 40px;
+    margin-left: 169px;
+    top: 7px;
+    opacity: 0.7;
+    position: relative;
+}
+.price2{
+    position: relative;
+    margin-left: 15px;
+    top: 76px;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(10, 41, 3);
+}
+.score2{
+    font-weight: bold;
+    margin-left: 120px;
+    top:100px;
+    position: relative;
+    font-size: smaller;
+}
+.discript2{
+    font-weight: bold;
+    top: 140px;
+    text-align: center;
+    margin-right: 1120px;
+    position: relative;
+    opacity: 0.7;
+    font-size: small;
+}
+.flower-name2{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 135px;
+    color: rgb(29, 54, 0);
+    text-shadow:5px 5px 10px rgba(0,0,0,0.7);
+}
+.divFlower2{
+    margin-left: 80px;
+    margin-top: 160px;
+}
+
+/* div3 */
+
+.colmn2{
+    margin-left: 320px;
+    position: relative;
+    bottom: 1105px;
+    
+}
+.flower3{
+    width: 260px;
+    position: relative;
+    left: 58px;
+    top: 380px;
+    filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.7));
+}
+.star3{
+    width: 25px;
+    margin-left: 90px;
+    bottom: 6px;
+    position: relative;
+}
+.basket3{
+    width: 40px;
+    margin-left: 169px;
+    bottom: 1px;
+    opacity: 0.7;
+    position: relative;
+}
+.price3{
+    position: relative;
+    margin-left: 15px;
+    top: 70px;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(10, 41, 3);
+}
+.diss1{
+    background-color: red;
+    border: none;
+    border-radius: 100px;
+    width: 40px;
+    margin-left: 170px;
+    text-align: center;
+    position: relative;
+    top: 95px;
+}
+.score3{
+    font-weight: bold;
+    margin-left: 120px;
+    bottom:40px;
+    position: relative;
+    font-size: smaller;
+}
+.discript3{
+    font-weight: bold;
+    margin-top: 420px;
+    text-align: center;
+    margin-right: 800px;
+    position: relative;
+    opacity: 0.7;
+    font-size: small;
+}
+
+.flower-name3{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 145px;
+    color: rgb(29, 54, 0);
+    text-shadow:5px 5px 10px rgba(0,0,0,0.7);
+}
+.divFlower3{
+    margin-left: 80px;
+    margin-top: 480px;
+}
+
+/* div4 */
+
+.colmn3{
+    margin-left: 320px;
+    position: relative;
+    bottom: 1085px;
+}
+
+
+.flower4{
+    width: 220px;
+    position: relative;
+    left: 80px;
+    top: 28px;
+    filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.7));
+}
+.star4{
+    width: 25px;
+    margin-left: 90px;
+    bottom: 8px;
+    position: relative;
+}
+.basket4{
+    width: 40px;
+    margin-left: 169px;
+    top: 4px;
+    opacity: 0.7;
+    position: relative;
+}
+.price4{
+    position: relative;
+    margin-left: 15px;
+    top: 59px;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(10, 41, 3);
+}
+.score4{
+    font-weight: bold;
+    margin-left: 120px;
+    bottom:42px;
+    position: relative;
+    font-size: smaller;
+}
+.discript4{
+    font-weight: bold;
+    margin-top:95px;
+    text-align: center;
+    margin-right: 800px;
+    position: relative;
+    opacity: 0.7;
+    font-size: small;
+    position: relative;
+    
+}
+.flower-name4{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 140px;
+    color: rgb(29, 54, 0);
+    text-shadow:5px 5px 10px rgba(0,0,0,0.7);
+}
+.divFlower4{
+    margin-left: 80px;
+    margin-top: 130px;
+}
+
+/* div5 */
+
+
+.colmn4{
+    margin-left: 640px;
+    position: relative;
+    bottom: 1980px;
+    
+}
+
+
+.flower5{
+    width: 230px;
+    position: relative;
+    left: 80px;
+    top: 40px;
+    filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.7));
+}
+.star5{
+    width: 25px;
+    margin-left: 90px;
+    bottom: 8px;
+    position: relative;
+}
+.basket5{
+    width: 40px;
+    margin-left: 169px;
+    bottom: 5px;
+    opacity: 0.7;
+    position: relative;
+}
+.price5{
+    position: relative;
+    margin-left: 15px;
+    top: 65px;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(10, 41, 3);
+}
+.score5{
+    font-weight: bold;
+    margin-left: 120px;
+    bottom:42px;
+    position: relative;
+    font-size: smaller;
+}
+.discript5{
+    font-weight: bold;
+    margin-top:100px;
+    text-align: center;
+    margin-right: 480px;
+    position: relative;
+    opacity: 0.7;
+    font-size: small;
+    position: relative;
+    
+}
+.flower-name5{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 148px;
+    color: rgb(29, 54, 0);
+    text-shadow:5px 5px 10px rgba(0,0,0,0.7);
+}
+.divFlower5{
+    margin-left: 80px;
+    margin-top: 130px;
+}
+
+/* div6 */
+
+.colmn5{
+    margin-left: 640px;
+    position: relative;
+    bottom: 1960px;
+    
+}
+
+
+.flower6{
+    width: 170px;
+    position: relative;
+    left: 105px;
+    top: 7px;
+    filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.7));
+}
+.star6{
+    width: 25px;
+    margin-left: 90px;
+    bottom: 8px;
+    position: relative;
+}
+.basket6{
+    width: 40px;
+    margin-left: 169px;
+    top: 8px;
+    opacity: 0.7;
+    position: relative;
+}
+.price6{
+    position: relative;
+    margin-left: 15px;
+    top: 75px;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(10, 41, 3);
+}
+.score6{
+    font-weight: bold;
+    margin-left: 120px;
+    bottom:42px;
+    position: relative;
+    font-size: smaller;
+}
+.discript6{
+    font-weight: bold;
+    margin-top:80px;
+    text-align: center;
+    margin-right: 480px;
+    position: relative;
+    opacity: 0.7;
+    font-size: small;
+    position: relative;
+    
+}
+.flower-name6{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 138px;
+    color: rgb(29, 54, 0);
+    text-shadow:5px 5px 10px rgba(0,0,0,0.7);
+}
+.divFlower6{
+    margin-left: 80px;
+    margin-top: 130px;
+}
+
+/* div7 */
+
+.colmn6{
+    margin-left: 960px;
+    position: relative;
+    bottom: 2860px;
+    
+}
+
+
+.flower7{
+    width: 250px;
+    position: relative;
+    left:60px;
+    top: 20px;
+    filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.7));
+}
+.star7{
+    width: 25px;
+    margin-left: 90px;
+    bottom: 8px;
+    position: relative;
+}
+.basket7{
+    width: 40px;
+    margin-left: 169px;
+    bottom: 5px;
+    opacity: 0.7;
+    position: relative;
+}
+.price7{
+    position: relative;
+    margin-left: 15px;
+    top: 65px;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(10, 41, 3);
+}
+.score7{
+    font-weight: bold;
+    margin-left: 120px;
+    bottom:42px;
+    position: relative;
+    font-size: smaller;
+}
+.discript7{
+    font-weight: bold;
+    margin-top:80px;
+    text-align: center;
+    margin-right: 160px;
+    position: relative;
+    opacity: 0.7;
+    font-size: small;
+    position: relative; 
+}
+.flower-name7{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 150px;
+    color: rgb(29, 54, 0);
+    text-shadow:5px 5px 10px rgba(0,0,0,0.7);
+}
+.divFlower7{
+    margin-left: 80px;
+    margin-top: 130px;
+}
+
+/* div8 */
+
+
+.colmn7{
+    margin-left: 960px;
+    position: relative;
+    bottom: 2840px;
+    
+}
+
+
+.flower8{
+    width: 340px;
+    position: relative;
+    left: 30px;
+    top: 18px;
+    filter: drop-shadow(5px 5px 10px rgba(0,0,0,0.7));
+}
+.star8{
+    width: 25px;
+    margin-left: 90px;
+    bottom: 8px;
+    position: relative;
+}
+.basket8{
+    width: 40px;
+    margin-left: 169px;
+    bottom: 5px;
+    opacity: 0.7;
+    position: relative;
+}
+.price8{
+    position: relative;
+    margin-left: 15px;
+    top: 65px;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: rgb(10, 41, 3);
+}
+.score8{
+    font-weight: bold;
+    margin-left: 120px;
+    bottom:42px;
+    position: relative;
+    font-size: smaller;
+}
+.discript8{
+    font-weight: bold;
+    margin-top:100px;
+    text-align: center;
+    margin-right: 155px;
+    position: relative;
+    opacity: 0.7;
+    font-size: small;
+    position: relative;
+}
+.flower-name8{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 150px;
+    color: rgb(29, 54, 0);
+    text-shadow:5px 5px 10px rgba(0,0,0,0.7);
+}
+.divFlower8{
+    margin-left: 80px;
+    margin-top: 130px;
+}
+
+
+.flowerss{
+    position: relative;
+    left: 90px;
+    height: 150px;
+}
+
+
+ .back{
+    width: 7px;
+    position: relative;
+    top: 2px;
+}
+.back-button{
+    width: 30px;
+    height: 30px;
+    background:#65c26a ;
+    backdrop-filter: blur(10px);
+    border:2px solid #65c26a;
+    border-radius: 100px;
+    margin-left: 80px;
+    position: relative;
+    box-shadow: 0 0 25px #26bd2e ;
+    bottom: 500px;
+}
+
+
+
+
+
+
+
+.home{
+    background-color: beige;
+    border-radius: 3px;
+    width: 20px;
+    position: relative;
+}
+.email{
+    background-color: beige;
+    border-radius: 3px;
+    width: 20px;
+    position: relative;
+}
+.clock{
+    background-color: beige;
+    border-radius: 3px;
+    width: 20px;
+    position: relative;
+}
+.phone{
+    background-color: beige;
+    border-radius: 3px;
+    position: relative;
+    width: 20px;
+    
+}
+
+.sp1{
+    position: relative;
+    margin-left: 600px;
+    top: 1130px;
+    color: beige;
+    
+}
+.sp2{
+    position: relative;
+    margin-left: 600px;
+    color: beige;
+    top: 1150px;
+    
+}
+.sp3{
+    position: relative;
+    margin-left: 550px;
+    top: 1130px;
+    color: beige;
+    left: 300px;
+    
+    
+}
+.sp4{
+    position: relative;
+    margin-left: 550px;
+    top: 1062px;
+    color: beige;
+    left: 300px;
+}
+.footer-img{
+    width: 1500px;
+    top:2225px ;
+    position: absolute;
+    
+}
+
+
+.footer-h1{
+    font-weight: bold;
+    color: beige;
+    top:1150px;
+    left: 650px;
+    position: relative;
+    font-size: 50px;
+
+}
+.app-p{    
+    font-weight: bold;
+    color: rgb(205, 255, 182);
+    top:1180px;
+    left: 70px;
+    position: relative;
+    font-size: large;
+    text-align: center;
+}
+.apps{
+    width: 130px;
+    position: relative;
+    top: 1200px;
+    left: 740px;
+}
+.items-footer{
+    position: relative;
+    top: 1580px;
+    left: 200px;
+    font-weight: bolder;
+    color: beige;
+}
+
+
+.log-footer{
+    position: relative;
+    top: 1170px;
+    left: 1150px;
+    font-weight: bold;
+    color: beige;
+}
+.tt{
+    margin-top: 170px;
+    
+}
+
+
+footer{
+    position: absolute; 
+    top:600px;
+}

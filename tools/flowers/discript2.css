@@ -1,0 +1,212 @@
+.flower{
+    position: relative;
+    width: 600px;
+    left: 200px;
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.7));
+    top: 10px;
+}
+.e{
+    position: relative;
+    margin-left: 130px;
+}
+.buy a{
+    color: beige;
+    text-decoration: none;
+}
+.div1{
+    width: 1300px;
+    height: 650px;
+    position: absolute;
+    background-color: rgb(13, 98, 1);
+    border: none;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.flower-name{
+    font-size: 80px;
+    font-weight: bolder;
+    color: beige;
+    margin-left: 600px;
+    margin-top: 80px;
+
+}
+.s{
+    width: 30px;
+    
+}
+.star5{
+    width: 15px;
+} 
+.star{
+    top: 30px;
+    margin-left: 600px;
+    position: relative;
+}
+.score{
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 760px;
+    position: relative;
+    bottom: 14px;
+    color: rgb(215, 255, 163);
+}
+.price{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 600px;
+    position: relative;
+    bottom: 30px;
+    color: rgb(255, 0, 0);
+}
+.discript{
+    margin-left: 600px;
+    position: relative;
+    font-weight: bold;
+    font-size: large;
+    bottom: 280px;
+    text-align: justify;
+    color: beige;
+}
+.ppot{
+    margin-left: 180px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(191, 255, 197);
+    text-shadow: 0 0 15px rgb(239, 255, 238);
+    position: relative;
+    bottom: 210px;
+}
+.mainb{
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.412));
+}
+.img-p{
+    width: 140px;
+    height: 140px;
+    background-color:beige ;
+    border-radius: 30px;
+    position: relative;
+    bottom: 240px;
+    left:180px;
+}
+.v{
+    width: 20px;
+    height: 20px;
+    border: 100px;
+    position: relative;
+    bottom: 370px;
+    left: 340px;
+}
+.b1{
+    background-color: beige;
+}
+.b2{
+    background-color: rgb(161, 231, 255);
+}
+.b3{
+    background-color: #c9ffbe;
+}
+.b4{
+    background-color: rgb(254, 182, 236);
+    bottom: 375px;
+}
+.size{
+    color: beige;
+    font-weight: bold;
+    font-size: x-large;
+    position: relative;
+    bottom: 500px;
+    left: 460px;
+}
+.x{
+    background-color: rgb(255, 217, 170);
+    color: rgb(4, 55, 4);
+    font-weight: bold;
+    border-radius: 50px;
+    border: none;
+    height: 40px;
+    width: 70px;
+    bottom:469px;
+    margin-bottom: 8px;
+    position: relative;
+}
+
+.nums{
+    width: 40px;
+    height: 20px;
+    position: relative;
+    bottom: 185px;
+    left:720px;
+    background-color: beige;
+    border: none;
+    border-radius: 15px;
+}
+.buy{
+    background-color: rgb(6, 67, 0);
+    color: rgb(178, 255, 178);
+    font-weight: bold;
+    border-radius: 50px;
+    border: none;
+    height: 40px;
+    width: 90px;
+    bottom:50px;
+    left: 700px;
+    position: relative;
+}
+.add{
+    background-color:rgb(178, 255, 178) ;
+    color:rgb(6, 67, 0) ;
+    font-weight: bold;
+    border-radius: 50px;
+    border: none;
+    height: 40px;
+    width: 110px;
+    bottom:50px;
+    left: 460px;
+    position: relative;
+}
+
+.discript-flower{
+    position: relative;
+    width:600px;
+    height: 500px;
+    background-color: rgb(158, 255, 161);
+    border-radius: 30px;
+    margin-left: 800px;
+    bottom: 550px;
+}
+.p-m{
+    font-size: large;
+    font-weight: bolder;
+    padding: 15px;
+    padding-left: 30px;
+}
+.dis-menu{
+    position: relative;
+    bottom: 30px;
+    font-size: medium;
+    font-weight: bold;
+    padding: 15px;
+    padding-left: 30px;
+}
+
+.back{
+    width: 7px;
+    position: relative;
+    top: 2px;
+}
+.back-button{
+    width: 30px;
+    height: 30px;
+    background:#65c26a ;
+    backdrop-filter: blur(10px);
+    border:2px solid #65c26a;
+    border-radius: 100px;
+    right: 560px;
+    position: relative;
+    box-shadow: 0 0 25px #65c26a ;
+    bottom: 500px;
+}

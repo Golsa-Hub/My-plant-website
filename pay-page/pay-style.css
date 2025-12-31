@@ -1,0 +1,178 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url("bg-pay.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Checkout{
+    color: rgb(5, 77, 5);
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    font-weight: bolder;
+    right: 520px;
+    top: 130px;
+}
+.soil-smile{
+    position: relative;
+    color: rgb(5, 80, 5);
+    top: 100px;
+    right: 520px;
+    text-align: center;
+    font-weight: bold;
+}
+.card-img{
+    position: relative;
+    width: 700px;
+    top: 50px;
+    right: 80px;
+    filter: drop-shadow(5px 5px 10px rgb(5, 80, 5));
+}
+.pay-form{
+    position: relative;
+    bottom: 630px;
+    margin-left: 550px;
+}
+.div-form{
+    position: relative;
+    width: 65%;
+    height: 600px;
+    background-color: #beffc5;
+    border:2px solid #d8fddc;
+    border-radius: 20px;
+    margin-left: 130px;
+    position: absolute;
+    box-shadow: 0 0 25px #d8fddc;
+    bottom: 50px;
+}
+.div-form label{
+    font-weight: bold;
+    color: rgb(5, 80, 5);
+    margin-left: 58px;
+}
+.i-name-card{
+    margin-left: 5px;
+    font-weight: bold;
+    background-color: #e5ffe6;
+    border: solid #e5ffe6;
+    border-radius: 5px;
+    width: 275px;
+    padding: 4px;
+    margin-left: 55px;
+}
+.i-card-number{
+    margin-left: 5px;
+    font-weight: bold;
+    background-color: #e5ffe6;
+    border: solid #e5ffe6;
+    border-radius: 5px;
+    width: 275px;
+    padding: 4px;
+    margin-left: 55px;
+}
+.i-cvv{
+    margin-left: 5px;
+    font-weight: bold;
+    background-color: #e5ffe6;
+    border: solid #e5ffe6;
+    border-radius: 5px;
+    width: 50px;
+    padding: 4px;
+    text-align: center;
+    margin-left: 55px;
+}
+.i-exp{
+    position: relative;
+    left: 100px;
+    bottom: 103px;
+    font-weight: bold;
+    background-color: #e5ffe6;
+    border: solid #e5ffe6;
+    border-radius: 5px;
+    width: 175px;
+    padding: 4px;
+    margin-left: 55px;
+}
+.card-exp{
+    position: relative;
+    left: 100px;
+    bottom: 102px;
+}
+.i-send-email{
+    position: relative;
+    bottom: 24px;
+    font-weight: bold;
+    background-color: #e5ffe6;
+    border: solid #e5ffe6;
+    border-radius: 5px;
+    width: 275px;
+    padding: 4px;
+    margin-left: 55px;
+}
+.send-email{
+    position: relative;
+    right: 250px;
+    bottom: 20px;
+}
+.b-pay{
+    width: 160px;
+    height: 50px;
+    padding: 5px;
+    position: relative;
+    background-color:#2E7D32 ;
+    border: solid #2E7D32;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+    margin-left: 124px;
+    bottom: 10px;
+}
+.i-name-card:focus{
+    border-color: rgb(153, 216, 153);
+    box-shadow: 0 0 0 1px rgb(153, 216, 153);
+    outline: none;
+}
+.i-card-number:focus{
+    border-color: rgb(153, 216, 153);
+    box-shadow: 0 0 0 1px rgb(153, 216, 153);
+    outline: none;
+}
+.i-cvv:focus{
+    border-color: rgb(153, 216, 153);
+    box-shadow: 0 0 0 1px rgb(153, 216, 153);
+    outline: none;
+}
+.i-exp:focus{
+    border-color: rgb(153, 216, 153);
+    box-shadow: 0 0 0 1px rgb(153, 216, 153);
+    outline: none;
+}
+.i-send-email:focus{
+    border-color: rgb(153, 216, 153);
+    box-shadow: 0 0 0 1px rgb(153, 216, 153);
+    outline: none;
+}
+
+
+ .back{
+    width: 7px;
+    position: relative;
+    top: 2px;
+}
+.back-button{
+    width: 30px;
+    height: 30px;
+    background:#65c26a ;
+    backdrop-filter: blur(10px);
+    border:2px solid #65c26a;
+    border-radius: 100px;
+    margin-left: 50px;
+    position: relative;
+    box-shadow: 0 0 25px #26bd2e ;
+    top: 60px;
+    z-index: 99999;
+}

@@ -1,0 +1,209 @@
+
+body{
+
+    position: relative;
+}
+
+div{
+    width: 330px;
+    height: 530px;
+    background-color: #beffc5;
+    border:2px solid #d8fddc;
+    border-radius: 20px;
+    margin-left: 590px;
+    margin-top: 100px;
+    padding-left: 30px;
+    position: absolute;
+    box-shadow: 0 0 25px #d8fddc ;
+}
+
+.h2{
+    color:#1d5220;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.p1{
+    color:#1d5220;
+     text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 30px;
+    
+}
+
+
+label{
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: small;
+    color: #2E7D32;
+    
+}
+
+.i1,.i2{
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: #e5ffe6;
+    border: solid #e5ffe6;
+    border-radius: 5px;
+    width: 275px;
+    padding: 4px;
+    margin-top: 10px;
+    
+}
+
+.i3{
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.a2{
+    text-decoration: none;
+}
+.l3{
+    
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:x-small;
+    
+}
+
+.check{
+    width: 10px;
+    height: 10px;
+    
+}
+
+.img{
+    width: 23px;
+    height: 23px;
+    position: relative;
+    margin-left: 256px;
+    margin-top: 12px;
+    
+}
+
+.or{
+    margin-left: 135px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;
+}
+
+.i1,.i2{
+    position: absolute; 
+}
+
+.Email{
+    position: relative;
+    width: 20px;
+    height: 15px;
+    margin-top: 15px ;   
+    margin-bottom: 18px;
+    margin-left: 260px;
+    opacity: 0.8;
+    
+}
+
+.b{
+    margin-left: 20px;
+    width: 260px;
+    padding: 5px;
+    margin-top: 10px;
+    background-color:#2E7D32 ;
+    border: solid #2E7D32;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+}
+.b1{
+    background-color:#2E7D32 ;
+    border: solid #2E7D32;
+    color: #d8fddc;
+}
+.b2{
+    background-color:#d8fddc ;
+    border: solid #2E7D32;
+    border-radius: 15px;
+    margin-top: 1px;
+    color:#1a471c;
+
+}
+
+.Google{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 90px;
+    top: 416px;
+}
+
+.a1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder ;
+    font-size: x-small;
+    margin-left: 77px;
+    text-decoration: none;
+    color: #2E7D32;
+
+}
+.a2{
+    color: #2E7D32;
+}
+
+.p3{
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2E7D32;
+    font-size: small;
+    margin-left: 48px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    color:#1d5220;
+
+}
+
+
+.i1:focus{
+    border-color: rgb(153, 216, 153);
+    box-shadow: 0 0 0 1px rgb(153, 216, 153);
+    outline: none;
+}
+.i2:focus{
+    border-color: rgb(153, 216, 153);
+    box-shadow: 0 0 0 1px rgb(153, 216, 153);
+    outline: none;
+}
+
+.back{
+    width: 7px;
+    margin-top: 4px;
+}
+
+.back-button{
+    width: 30px;
+    height: 30px;
+    margin-left: 600px;
+    background:#65c26a ;
+    backdrop-filter: blur(10px);
+    border:2px solid #65c26a;
+    border-radius: 100px;
+    margin-left: 498px;
+    margin-top: 120px;
+    box-shadow: 0 0 25px #65c26a ;
+}
+.bg{
+    background-image: url("bg-signup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

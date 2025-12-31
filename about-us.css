@@ -1,0 +1,29 @@
+.d1{
+    background-color: rgb(255, 255, 255);
+    border: solid rgb(149, 255, 135);
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 30px;
+    width: 1400px;
+    position: absolute;
+    height: 600px;
+}
+.d2{
+    text-align: center;
+    background-color: rgb(149, 255, 135);
+    border: solid rgb(149, 255, 135);
+    border-radius: 15px;
+    bottom: 8px;
+    right: 8px;
+    padding: 30px;
+    width: 1350px;
+    position: relative;
+}
+
+p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: small;
+}
